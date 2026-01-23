@@ -110,8 +110,4 @@ enableEmoji = true
     languageName = "English"
     contentDir = "content/en"
 
-  [languages.de]
-    title = "Erika Musterfrau - Ernährungshilfe & Kochberatung"
-    weight = 20
-    contentDir = "content/de"
-    languageName = "Deutsch"
+  
