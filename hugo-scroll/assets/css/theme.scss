@@ -17,6 +17,13 @@ body {
   background: var(--section-light-bg-color) no-repeat center center;
 }
 
+// the semi-transparent background of a div;
+// to make the title easier to read
+#site-head-content{
+  background-color: rgba(175, 160, 158, 0.6);
+  border-radius: 25px; 
+}
+
 #site-head, #site-head.withCenteredImage {
   position: relative;
   display: table;
@@ -51,7 +58,7 @@ body {
 
   .blog-title {
     margin: 10px 0 10px 0;
-    font-size: 5rem;
+    font-size: 6rem;
     letter-spacing: -1px;
     text-shadow: var(--cover-title-text-shadow);
   }
