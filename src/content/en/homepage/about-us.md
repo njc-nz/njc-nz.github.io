@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-weight: 3
+weight: 4
 header_menu: true
 ---
 
@@ -18,3 +18,23 @@ A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor 
 ----
 
 In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+
+----
+
+And we've been to Japan!
+
+![Japan1](/images/japan2.jpg)
+
+
+![Japan2](/images/japan6.jpg)
+
+
+And to Paris!!
+
+
+![Paris1](/images/paris.jpg)
+
+
+![Paris2](/images/paris3.jpg)
+
+
