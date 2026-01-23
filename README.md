@@ -9,6 +9,7 @@ cd /tmp/code/src/
 hugo server --themesDir=../
 ```
 
+Open your web browser at http://localhost:1313/
 
 ## Regular ops - generate static website
 
@@ -23,6 +24,9 @@ Host it locally with Apache:
 ```
 docker run -dit --name my-apache-app -p 8080:80 -v "$PWD/src/public":/usr/local/apache2/htdocs/ httpd:2.4
 ```
+
+Open your web browser at http://localhost:8080/
+
 
 https://gohugo.io/host-and-deploy/host-on-github-pages/
 
