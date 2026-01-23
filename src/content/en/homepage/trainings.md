@@ -12,12 +12,12 @@ Whether you are just starting (a Beginner) or with some experience (a Senior), w
 
 {{< rawhtml >}}
 <img
-  style="float:right;margin: 5px 5px 5px 0px;"
+  style="float:right;margin: 5px 5px 5px 5px;"
   src="images/trainings3.jpg"
   width=40%
 >
 <img
-  style="float:left;margin: 5px 0px 5px 5px;"
+  style="float:left;margin: 5px 5px 5px 5px;"
   src="images/trainings1.jpg"
   width=40%
 >
