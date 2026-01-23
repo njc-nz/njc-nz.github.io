@@ -1,5 +1,5 @@
 ---
-title: "The single page referenced to by the Gallery button on the cover page"
+title: "There could be a gallery here maybe"
 ---
 This file is a single page and is referenced by the button `Gallery` on the cover start page.
 
