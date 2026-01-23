@@ -7,7 +7,15 @@ header_menu: true
 ---
 
 We operate using the following fees:
-![Fees](images/trainings4.jpg)
 
+{{< rawhtml >}}
+<img
+  src="images/trainings4.jpg"
+  width=40%
+>
 
+</br>
+</br>
+</br>
+{{< /rawhtml >}}
 

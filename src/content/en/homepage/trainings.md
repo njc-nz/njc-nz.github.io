@@ -8,9 +8,36 @@ header_menu: true
 
 Whether you are just starting (a Beginner) or with some experience (a Senior), whether you are 7, 17, or 70 years old, we have a training just for you!
 
-![Trainings schedule](images/trainings3.jpg)
+<!-- ![Trainings schedule](images/trainings3.jpg) -->
 
-## Term dates
+{{< rawhtml >}}
+<img
+  style="float:right;margin: 5px 5px 5px 0px;"
+  src="images/trainings3.jpg"
+  width=40%
+>
+<img
+  style="float:left;margin: 5px 0px 5px 5px;"
+  src="images/trainings1.jpg"
+  width=40%
+>
 
-![Term dates](images/trainings1.jpg)
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+{{< /rawhtml >}}
 
