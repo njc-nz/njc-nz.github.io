@@ -21,20 +21,4 @@ In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio e
 
 ----
 
-And we've been to Japan!
-
-![Japan1](/images/japan2.jpg)
-
-
-![Japan2](/images/japan6.jpg)
-
-
-And to Paris!!
-
-
-![Paris1](/images/paris.jpg)
-
-
-![Paris2](/images/paris3.jpg)
-
 
