@@ -6,4 +6,4 @@ header_menu: true
 
 {{<contact_list>}}
 
-Let us get in touch!
+Should you have any questions, let's get in touch!
