@@ -9,8 +9,21 @@ Find us in [Brightwater Public Hall](https://www.google.com/maps/place/Brightwat
 
 12 Lord Rutherford Road South, North, Brightwater 7022
 
-![map](/images/map.png)
 
-![map](/images/dojo1.jpg)
+{{< rawhtml >}}
+<div class="custom-row">
+  <div class="custom-column">
+    <img src="images/map.png" alt="Google map" style="width:100%">
+  </div>
+  <div class="custom-column">
+    <img src="images/dojo1.jpg" alt="Dojo" style="width:100%">
+  </div>
+  <div class="custom-column">
+    <img src="images/dojo-google-street-view.jpg" alt="Dojo from Google street view" style="width:100%">
+  </div>
+</div>
 
-----
+</br>
+</br>
+</br>
+{{< /rawhtml >}} 
