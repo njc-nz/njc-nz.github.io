@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Welcome! Curious about Judo?"
 weight: 1
 header_menu_title: "Gallery"
 navigation_menu_title: "Gallery stuff"
@@ -8,15 +8,9 @@ detailed_page_path: /gallery/
 detailed_page_homepage_content: true
 ---
 
-Hi there! This is a page for our local Nelson Judo club. If you're thinking about joining our trainings, you are in the right place
+Judo is a martial art, originating from Japan. While the literal meaning of the world 'Judo' means 'gentle way', Judo is full of majestic throws, holds, and grappling techniques.
 
-> we can use quotes
+> The practice of judo techniques helps people develop basic and fundamental physical fitness in a number of ways, such as the development of strength, flexibility, agility, speed, dynamic and static balance, explosive power, and endurance.
 
-* lists
-* like
-* this
-
-**bold** and *italics* too. Also `this` works.
-
-See [dedicated page](gallery).
+Read more on [NZ Judo at the Olympic Games](https://olympic.org.nz/sports/judo) or about Judo at [Wikipedia](https://en.wikipedia.org/wiki/Judo).
 
