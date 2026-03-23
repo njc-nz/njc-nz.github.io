@@ -1,3 +1,16 @@
+.custom-column {
+  float: left;
+  width: 32%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.custom-row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 body {
   --color-text: var(--section-light-text-color);
   --color-background: var(--section-light-bg-color);

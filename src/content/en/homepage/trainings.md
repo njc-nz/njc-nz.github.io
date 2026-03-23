@@ -2,7 +2,7 @@
 title: "Timetable"
 header_menu_title: "Timetable"
 navigation_menu_title: "Timetable"
-weight: 2
+weight: 3
 header_menu: true
 ---
 

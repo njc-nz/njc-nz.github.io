@@ -8,7 +8,7 @@ detailed_page_path: /gallery/
 detailed_page_homepage_content: true
 ---
 
-Judo is a martial art, originating from Japan. While the literal meaning of the world 'Judo' means 'gentle way', Judo is full of majestic throws, holds, and grappling techniques.
+Judo is a martial art, originating from Japan. While the literal meaning of the world 'Judo' means 'gentle way', Judo is full of majestic throws, holds, and grappling techniques. Our classes teach judo in a safe environment.
 
 > The practice of judo techniques helps people develop basic and fundamental physical fitness in a number of ways, such as the development of strength, flexibility, agility, speed, dynamic and static balance, explosive power, and endurance.
 

@@ -11,4 +11,6 @@ Find us in [Brightwater Public Hall](https://www.google.com/maps/place/Brightwat
 
 ![map](/images/map.png)
 
+![map](/images/dojo1.jpg)
+
 ----
