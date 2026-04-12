@@ -6,6 +6,8 @@ Generate static files:
 ```
 docker run --rm -ti -v $PWD:/tmp/code --net=host hugomods/hugo:debian-nightly-non-root bash
 cd /tmp/code/src/
+cp src/assets/images/* src/public/images/
+cp src/assets/js/* src/public/js/
 hugo server --themesDir=../
 ```
 
