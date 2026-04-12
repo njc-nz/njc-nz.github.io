@@ -27,10 +27,19 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: hugomods/hugo:debian-nightly-non-root
     steps:
       - name: Checkout
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
+        with:
+          persist-credentials: false
+          fetch-depth: 1
+      - name: Build Hugo website
+        run: |
+          cd src/
+          hugo --gc --minify --themesDir=../
+          cp assets/images/* public/images/
+          cp ../hugo-scroll/assets/js/* public/js/
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
