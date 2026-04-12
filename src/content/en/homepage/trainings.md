@@ -12,13 +12,13 @@ Come, join us! Whether you are just starting (a Beginner) or already with some e
 
 {{< rawhtml >}}
 </br>
-• Term 1: 4th February till 1st April
+• <strong>Term 1:</strong> 4th February till 1st April
 </br>
-• Term 2: 20th April till 3rd July
+• <strong>Term 2:</strong> 20th April till 3rd July
 </br>
-• Term 3: 20th July till 25th September
+• <strong>Term 3:</strong> 20th July till 25th September
 </br>
-• Term 4: 12th October till 18th December 
+• <strong>Term 4:</strong> 12th October till 18th December 
 </br>
 </br>
 
@@ -29,17 +29,17 @@ Come, join us! Whether you are just starting (a Beginner) or already with some e
 *Suspect to change throughout the yeat, with notice*
 
 {{< rawhtml >}}
-• Beginners - open to beginners of all ages (this class works on white, yellow, and orange belt techniques)
+• <strong>Beginners:</strong> open to beginners of all ages (this class works on white, yellow, and orange belt techniques)
 </br>
-• Pewees - under 7 year olds
+• <strong>Pewees:</strong> under 7 year olds
 </br>
-• Juniors - 7 to 14 year olds
+• <strong>Juniors:</strong> 7 to 14 year olds
 </br>
-• Seniors - 14+ year olds and adults (progression from Junior to Senior is often with invitation from the coaches)
+• <strong>Seniors:</strong> 14+ year olds and adults (progression from Junior to Senior is often with invitation from the coaches)
 </br>
-• Women's class - a class for women, run by women, all grades welcome
+• <strong>Women's class:</strong> a class for women, run by women, all grades welcome
 </br>
-• Jurrasic-judo - fundamental/technique-focused class for all grades and ages (mostly attended by adults)
+• <strong>Jurrasic-judo:</strong> fundamental/technique-focused class for all grades and ages (mostly attended by adults)
 </br>
 </br>
 {{< /rawhtml >}}
