@@ -1,8 +1,8 @@
 ---
 title: "Welcome! Curious about Judo?"
 weight: 1
-header_menu_title: "Gallery"
-navigation_menu_title: "Gallery stuff"
+header_menu_title: "Welcome"
+navigation_menu_title: "Welcome :)"
 header_menu: true
 detailed_page_path: /gallery/
 detailed_page_homepage_content: true
