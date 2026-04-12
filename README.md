@@ -6,8 +6,8 @@ Generate static files:
 ```
 docker run --rm -ti -v $PWD:/tmp/code --net=host hugomods/hugo:debian-nightly-non-root bash
 cd /tmp/code/src/
-cp src/assets/images/* src/public/images/
-cp src/assets/js/* src/public/js/
+cp assets/images/* public/images/
+cp ../hugo-scroll/assets/js/* public/js/
 hugo server --themesDir=../
 ```
 
@@ -20,6 +20,8 @@ Generate static files:
 docker run --rm -ti -v $PWD:/tmp/code --net=host hugomods/hugo:debian-nightly-non-root bash
 cd /tmp/code/src/
 hugo --gc --minify --themesDir=../
+cp assets/images/* public/images/
+cp ../hugo-scroll/assets/js/* public/js/
 ```
 
 Host it locally with Apache:
