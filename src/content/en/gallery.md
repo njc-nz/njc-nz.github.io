@@ -4,53 +4,26 @@ title: "Gallery"
 
 Photos from our trainings, trips, and competitions.
 
-### Japan
-
-![Japan1](/images/japan2.jpg)
+{{< rawhtml >}}
 
 
-![Japan2](/images/japan6.jpg)
+<swiper-container class="mySwiper" navigation="true">
+    <swiper-slide><img src="/images/japan2.jpg" alt="Japan"></swiper-slide>
+    <swiper-slide><img src="/images/japan6.jpg" alt="Japan"></swiper-slide>
+    <swiper-slide><img src="/images/paris.jpg" alt="Paris"></swiper-slide>
+    <swiper-slide><img src="/images/paris3.jpg" alt="Paris"></swiper-slide>
+    <swiper-slide><img src="/images/fun1.jpg" alt="Fun"></swiper-slide>
+    <swiper-slide><img src="/images/fun2.jpg" alt="Fun"></swiper-slide>
+    <swiper-slide><img src="/images/fun3.jpg" alt="Fun"></swiper-slide>
+    <swiper-slide><img src="/images/fun4.jpg" alt="Fun"></swiper-slide>
+    <swiper-slide><img src="/images/fun5.jpg" alt="Fun"></swiper-slide>
+    <swiper-slide><img src="/images/fun6.jpg" alt="Fun"></swiper-slide>
+    <swiper-slide><img src="/images/fun7.jpg" alt="Fun"></swiper-slide>
+    <swiper-slide><img src="/images/fun8.jpg" alt="Fun"></swiper-slide>
+    <swiper-slide><img src="/images/fun9.jpg" alt="Fun"></swiper-slide>
+    <swiper-slide><img src="/images/fun99.jpg" alt="Fun"></swiper-slide>
+    <swiper-slide><img src="/images/dojo.jpg" alt="Nelson Judo Dojo in Brightwater"></swiper-slide>
+    <swiper-slide><img src="/images/dojo1.jpg" alt="Nelson Judo Dojo in Brightwater"></swiper-slide>
+  </swiper-container>
 
-
-### Paris
-
-
-![Paris1](/images/paris.jpg)
-
-
-![Paris2](/images/paris3.jpg)
-
-
-### Trainings
-
-![Fun](/images/fun1.jpg)
-
-
-![Fun](/images/fun2.jpg)
-
-
-![Fun](/images/fun3.jpg)
-
-
-![Fun](/images/fun4.jpg)
-
-
-![Fun](/images/fun5.jpg)
-
-
-![Fun](/images/fun6.jpg)
-
-![Fun](/images/fun7.jpg)
-
-![Fun](/images/fun8.jpg)
-
-![Fun](/images/fun9.jpg)
-
-
-![Fun](/images/fun99.jpg)
-
-
-![Dojo](/images/dojo.jpg)
-
-
-![Dojo](/images/dojo1.jpg)
+{{< /rawhtml >}}
