@@ -28,28 +28,24 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    container:
-      image: hugomods/hugo:debian-nightly-non-root
-      # volumes:
-      #   - ${PWD}:/tmp/code
     steps:
       - name: Checkout
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
         with:
           persist-credentials: false
           fetch-depth: 1
-      - name: Build Hugo website
-        run: |
-          cd src/
-          hugo --gc --minify --themesDir=../
-          cp assets/images/* public/images/
-          cp ../hugo-scroll/assets/js/* public/js/
+      # - name: Build Hugo website
+      #   run: |
+      #     cd src/
+      #     hugo --gc --minify --themesDir=../
+      #     cp assets/images/* public/images/
+      #     cp ../hugo-scroll/assets/js/* public/js/
       - name: Setup Pages
         uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
       - name: Upload artifact
         uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4.0.0
         with:
-          # Upload entire repository
+          # Upload the public directory
           path: './src/public'
       - name: Deploy to GitHub Pages
         id: deployment
