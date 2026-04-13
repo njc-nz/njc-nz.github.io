@@ -27,7 +27,11 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: hugomods/hugo:debian-nightly-non-root
+    runs-on: ubuntu-latest
+    container:
+      image: hugomods/hugo:debian-nightly-non-root
+      # volumes:
+      #   - ${PWD}:/tmp/code
     steps:
       - name: Checkout
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
