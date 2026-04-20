@@ -29,17 +29,17 @@ Come, join us! Whether you are just starting (a Beginner) or already with some e
 *Suspect to change throughout the yeat, with notice*
 
 {{< rawhtml >}}
-• <strong>Beginners:</strong> open to beginners of all ages (this class works on white, yellow, and orange belt techniques)
+• <strong>Beginners:</strong> a class that teaches the fundamentals of Judo, appropriate for all ages
 </br>
-• <strong>Pewees:</strong> under 7 year olds
+• <strong>Pewees:</strong> typically under 7 year olds
 </br>
-• <strong>Juniors:</strong> 7 to 14 year olds
+• <strong>Juniors:</strong> typically 7 to 13 year olds
 </br>
-• <strong>Seniors:</strong> 14+ year olds and adults (progression from Junior to Senior is often with invitation from the coaches)
+• <strong>Seniors:</strong> 14+ year olds and adults (progression from Juniors to Seniors is often with invitation from the coaches)
 </br>
-• <strong>Women's class:</strong> a class for women, run by women, all grades welcome
+• <strong>Women's class:</strong> a class for women, run by women, all experience levels, teens + adults
 </br>
-• <strong>Jurrasic-judo:</strong> fundamental/technique-focused class for all grades and ages (mostly attended by adults)
+• <strong>Jurrasic-judo:</strong> fundamentals/technique-focused class for all grades and ages (mostly attended by adults)
 </br>
 </br>
 {{< /rawhtml >}}
