@@ -11,7 +11,7 @@ header_logo: "images/logo-transparent.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Nelson Judo Club"
-header_subheadline: "Come for the judo, stay for the people"
+header_subheadline: "Come for the judo, stay for the community"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

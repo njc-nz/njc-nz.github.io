@@ -1,16 +1,14 @@
 ---
-title: "Welcome! Curious about Judo?"
+title: "Welcome to Nelson Judo Club"
 weight: 1
 header_menu_title: "Welcome"
-navigation_menu_title: "Welcome :)"
+navigation_menu_title: "Welcome"
 header_menu: true
 detailed_page_path: /gallery/
 detailed_page_homepage_content: true
 ---
 
-Judo is a martial art, originating from Japan. While the literal meaning of the world 'Judo' means 'gentle way', Judo is full of majestic throws, holds, and grappling techniques. Our classes teach judo in a safe environment.
+Nelson Judo Club was founded about 60 years ago and has many judoka compete both nationally and internationally. We are honoured to have some strong talent within our membership and among our coaches. We value 
 
-> The practice of judo techniques helps people develop basic and fundamental physical fitness in a number of ways, such as the development of strength, flexibility, agility, speed, dynamic and static balance, explosive power, and endurance.
-
-Read more on [NZ Judo at the Olympic Games](https://olympic.org.nz/sports/judo) or about Judo at [Wikipedia](https://en.wikipedia.org/wiki/Judo).
+> "Come for the judo, stay for the community"
 
