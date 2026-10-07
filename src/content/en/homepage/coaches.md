@@ -26,7 +26,7 @@ Oceanic Judo Union Commission Member, Judo New Zealand Veteran Commissioner, Are
 {{< /rawhtml >}}  -->
 
 
-{{< rawhtml >}}
+<!-- {{< rawhtml >}}
 <div class="custom-row">
   <div class="custom-column">
     <img src="images/about-us3.jpg" alt="Kids observing the coach" style="width:100%">
@@ -42,7 +42,9 @@ Oceanic Judo Union Commission Member, Judo New Zealand Veteran Commissioner, Are
 </br>
 </br>
 </br>
-{{< /rawhtml >}} 
+{{< /rawhtml >}}  -->
+
+![John Maxwell](/images/about-us2.jpg)
 
 #### John Maxwell 
 Head coach
