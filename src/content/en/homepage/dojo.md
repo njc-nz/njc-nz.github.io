@@ -11,7 +11,7 @@ Address: [Brightwater Public Hall
 
 For all enquiries, contact us at: **nelsonjudoclub@gmail.com**
 
-Or you can **call Richard** (Club President): **+64 220669010** 
+Or you can call **Richard** (Club President): **+64 220669010** 
 
 Register at: http://nelsonjudo.clubstuff.nz (reload the page if it doesn’t load correctly on the first attempt)
 
