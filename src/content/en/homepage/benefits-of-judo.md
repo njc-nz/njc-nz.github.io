@@ -7,10 +7,9 @@ header_menu: true
 detailed_page_homepage_content: true
 ---
 
-Build self-confidence and mental resilience 
-
-
 {{< rawhtml >}}
+• Build self-confidence and mental resilience 
+</br>
 • Improve your flexibility, strength, and endurance while having fun
 </br>
 • Learn self-defence
@@ -19,9 +18,9 @@ Build self-confidence and mental resilience
 </br>
 • Optional opportunities to engage in competitions 
 </br>
-• Worldwide recognised grading system 
+• Internationally recognised grading system 
 </br>
 {{< /rawhtml >}}
 
 
-Judo is excellent for kids as it is safe (doesn’t involve strikes or kicks and everyone learns how to fall from throws properly) and promotes physical, mental, and social skill development. International studies have even shown that judo is the safest sport for under 13 year olds. 
+Judo is excellent for children as it is safe (doesn’t involve strikes or kicks and everyone learns how to fall from throws properly) and promotes physical, mental, and social skill development. International studies have shown that judo is one of the safest sports for children under 13 years old. 
