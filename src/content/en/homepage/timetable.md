@@ -8,13 +8,13 @@ header_menu: true
 
 {{< rawhtml >}}
 </br>
-• <strong>Mondays:</strong> Beginners 5 PM - 6 PM
+• <strong>Mondays:</strong> Beginners 5pm - 6pm **Held at Braemar Seminar Centre at Nelson Hospital Campus NOT at Brightwater Public Hall**
 </br>
-• <strong>Tuesdays:</strong> Juniors 5 PM - 6 PM; Seniors 6 PM- 7:30 PM
+• <strong>Tuesdays:</strong> Juniors 5pm - 6pm; Seniors 6pm - 7:30pm
 </br>
-• <strong>Thursdays:</strong> Peewees 4:30 PM - 5 PM; Juniors 5 PM - 6 PM; Women’s 5 PM - 6 PM; Seniors 6 PM- 7:30 PM
+• <strong>Thursdays:</strong> Peewees 4:30pm - 5pm; Juniors 5pm - 6pm; Women’s 5pm - 6pm; Seniors 6pm - 7:30pm
 </br>
-• <strong>Sundays:</strong> Jurassic Judo 11 AM - 12:30 PMs
+• <strong>Sundays:</strong> Jurassic Judo 11am - 12:30pm
 </br>
 </br>
 
