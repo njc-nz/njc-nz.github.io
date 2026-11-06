@@ -10,7 +10,7 @@ header_menu: true
 </br>
 • <strong>Mondays:</strong> 
 </br>
-Beginners 5pm - 6pm **Held at Braemar Seminar Centre at Nelson Hospital Campus NOT at Brightwater Public Hall**
+Beginners 5pm - 6pm - **Held at Braemar Seminar Centre at Nelson Hospital Campus NOT at Brightwater Public Hall**
 </br>
 </br>
 • <strong>Tuesdays:</strong> 
