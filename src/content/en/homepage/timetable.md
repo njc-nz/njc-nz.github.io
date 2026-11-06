@@ -10,15 +10,15 @@ header_menu: true
 </br>
 • <strong>Mondays:</strong> 
 </br>
-Beginners 5pm - 6pm 
+Beginners 5pm - 6pm **Held at Braemar Seminar Centre at Nelson Hospital Campus NOT at Brightwater Public Hall**
 </br>
-**Held at Braemar Seminar Centre at Nelson Hospital Campus NOT at Brightwater Public Hall**
 </br>
 • <strong>Tuesdays:</strong> 
 </br>
 Juniors 5pm - 6pm
 </br>
 Seniors 6pm - 7:30pm
+</br>
 </br>
 • <strong>Thursdays:</strong> 
 </br>
@@ -29,6 +29,7 @@ Juniors 5pm - 6pm
 Women’s 5pm - 6pm
 </br>
 Seniors 6pm - 7:30pm
+</br>
 </br>
 • <strong>Sundays:</strong> 
 </br>
