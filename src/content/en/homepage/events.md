@@ -1,5 +1,5 @@
 ---
-title: "Calendar of events happening for the club"
+title: "Calendar of upcoming events and important club dates"
 header_menu_title: "Events"
 navigation_menu_title: "Events"
 weight: 7
@@ -16,7 +16,7 @@ header_menu: true
 </br>
 • <strong>Term 3:</strong> 20th July - 25th September
 </br>
-• <strong>Term 4:</strong> 12th October - 18th December 
+• <strong>Term 4:</strong> 12th October - 10th December 
 </br>
 
 {{< /rawhtml >}}
