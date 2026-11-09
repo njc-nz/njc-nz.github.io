@@ -39,8 +39,6 @@ Jurassic Judo 11am - 12:30pm
 
 {{< /rawhtml >}}
 
-![Timetable](images/trainings3-just-table.png)
-
 <!-- {{< rawhtml >}}
 <img
   style="float:right;margin: 5px 5px 5px 5px;"
