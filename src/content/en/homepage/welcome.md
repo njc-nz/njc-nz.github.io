@@ -8,7 +8,7 @@ detailed_page_path: /gallery/
 detailed_page_homepage_content: true
 ---
 
-Nelson Judo Club was founded about 60 years ago and has many judoka compete both nationally and internationally. We are honoured to have some strong talent within our membership and among our coaches. We value 
+Nelson Judo Club was founded over 60 years ago and has produced many judoka who have competed both nationally and internationally. We are honoured to have some strong talent within our membership and among our coaches. Our dojo values respect, perseverance, personal development, and community.
 
 > "Come for the judo, stay for the community"
 

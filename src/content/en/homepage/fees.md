@@ -21,13 +21,22 @@ header_menu: true
 {{< /rawhtml >}}
 
 ##### Family Discount
-We offer a family discount on our term fees. When there are two or more members from the same family, a $10 per member discount will be applied to the family’s total term fees. *E.g. Term fees for a family with 2 children attending classes: (2x 85) - (2x 10) = $150 per term, which is a $20 discount.*
+We offer a family discount on our term fees. When there are two or more members from the same family, a $10 per member discount will be applied to the family’s total term fees. *For example, term fees for a family with two children attending classes would be: (2 × $85) - (2 × $10) = $150 per term, a saving of $20*
 
 ##### Judo New Zealand fees
+
+{{< rawhtml >}}
+</br>
 It is compulsory for all members to be registered with Judo New Zealand.
+</br>
 • Judo New Zealand Annual Registration fee (all ages) $110/annum
+</br>
 • Grading $50/grading
-• Competition fees - for those who enter competitions. Details will be circulated at the time and invoices sent to those who chose to enter.
+</br>
+• Competition fees apply only to members who enter competitions. Details will be circulated at the time and invoices will be sent to those who choose to enter.
+</br>
+</br>
+{{< /rawhtml >}}
 
 ##### Additional costs
-Purchase of a judogi/judo attire (generally people purchase online from stores like Christchurch Martial Arts Supplies or Auckland Martial Arts Supplies, or you can often find second hand judogi for sale on Facebook Marketplace if you keep an eye out). 
+Purchase of a judogi (judo uniform) (generally people purchase online from stores like Christchurch Martial Arts Supplies or Auckland Martial Arts Supplies, or you can find look for second-hand judogi for sale on Facebook Marketplace or TradeMe). 

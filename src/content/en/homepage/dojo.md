@@ -9,9 +9,11 @@ header_menu: true
 Address: [Brightwater Public Hall
 12 Lord Rutherford Street, Brightwater](https://maps.app.goo.gl/svvN5sKM5esePLxy9)
 
+Please note that Beginners class on Mondays are held at Braemar Seminar Centre at Nelson Hospital Campus.
+
 For all enquiries, contact us at: **nelsonjudoclub@gmail.com**
 
-Or you can **call Richard** (Club President): **+64 220669010** 
+Or you can call **Richard** (Club President): **+64 220669010** 
 
 Register at: http://nelsonjudo.clubstuff.nz (reload the page if it doesn’t load correctly on the first attempt)
 
