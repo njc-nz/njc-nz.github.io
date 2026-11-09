@@ -21,7 +21,7 @@ header_menu: true
 {{< /rawhtml >}}
 
 ##### Family Discount
-We offer a family discount on our term fees. When there are two or more members from the same family, a $10 per member discount will be applied to the family’s total term fees. *For example, term fees for a family with two children attending classes would be: ((2 × $85) - (2 × $10) = $150 per term, a saving of $20*
+We offer a family discount on our term fees. When there are two or more members from the same family, a $10 per member discount will be applied to the family’s total term fees. *For example, term fees for a family with two children attending classes would be: (2 × $85) - (2 × $10) = $150 per term, a saving of $20*
 
 ##### Judo New Zealand fees
 It is compulsory for all members to be registered with Judo New Zealand.
