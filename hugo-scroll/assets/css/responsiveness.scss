@@ -21,6 +21,11 @@
   #header-arrow {
     font-size: 100px;
   }
+
+  img.coaches-img {
+    width: 400px;
+    height: auto;
+  }
 }
 
 @media only screen and (max-width: 1130px) {
@@ -117,6 +122,11 @@
     font-size: 80px;
   }
 
+  img.coaches-img {
+    width: 350px;
+    height: auto;
+  }
+
 }
 
 /* ==========================================================================
@@ -195,5 +205,13 @@
 
   .site-footer {
     font-size: 1.1rem;
+  }  
+}
+
+
+@media only screen and (max-width: 800px) {
+  img.coaches-img {
+    width: 150px;
+    height: auto;
   }
 }

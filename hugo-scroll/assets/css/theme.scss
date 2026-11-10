@@ -346,3 +346,21 @@ a.fn-item {
     margin-left: unset;
   }
 }
+
+p.coaches-p {
+  font-size: 0.8em;
+  line-height: 1.2;
+}
+
+div.coaches-div {
+  display: flex;
+  align-items: center; 
+  gap: 20px;
+}
+
+div.coaches-div-outer {
+  border: 2px solid white;
+  border-radius: 8px; /* Rounds the corners */
+  padding: 20px;
+  margin: 5px;
+}

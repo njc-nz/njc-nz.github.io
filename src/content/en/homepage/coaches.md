@@ -44,32 +44,94 @@ Oceanic Judo Union Commission Member, Judo New Zealand Veteran Commissioner, Are
 </br>
 {{< /rawhtml >}}  -->
 
-![John Maxwell](/images/about-us2.jpg)
+{{< rawhtml >}}
+<div class="coaches-div-outer">
+  <h2>John Maxwell</h2>
+  <div class="coaches-div">
+    <img src="/images/about-us2.jpg" alt="Description" class="coaches-img">
+    <p class="coaches-p">
+      <strong>Head coach</strong>
+      </br>
+      </br>
 
-#### John Maxwell 
-Head coach
-3rd Dan Black Belt
-Primarily coaches juniors, seniors, and Jurassic classes
-Oceanic Judo Union Commission Member, Judo New Zealand Veteran Commissioner, Area Director for Central District of New Zealand
+      3rd Dan Black Belt
+      </br>
+      </br>
+      Primarily coaches juniors, seniors, and Jurassic classes
+      </br>
+      </br>
+      Oceanic Judo Union Commission Member, Judo New Zealand Veteran Commissioner, Area Director for Central District of New Zealand
+    </p>
+  </div>
+</div>
 
-#### Antoinette Earl
-Coach
-4th Dan Black Belt
-Primarily coaches Women’s classes
-Vice President of Judo New Zealand, Treasurer of Nelson Judo Club
+<div class="coaches-div-outer">
+  <h2>Antoinette Earl</h2>
+  <div class="coaches-div">
+    <img src="/images/about-us2.jpg" alt="Description" class="coaches-img">
+    <p class="coaches-p">
+      <strong>Coach</strong>
+      </br>
+      </br>
 
-#### Richard Stevens
-Coach
-Brown Belt
-Primarily coaches Beginners, Peewees, Juniors 
-President of Nelson Judo Club
+      4th Dan Black Belt
+      </br>
+      </br>
+      Primarily coaches Women’s classes
+      </br>
+      </br>
+      Vice President of Judo New Zealand, Treasurer of Nelson Judo Club
+    </p>
+  </div>
+</div>
 
-#### Richard Phipps
-Coach
-Brown Belt
-Primarily coaches Beginners
+<div class="coaches-div-outer">
+  <h2>Richard Stevens</h2>
+  <div class="coaches-div">
+    <img src="/images/about-us2.jpg" alt="Description" class="coaches-img">
+    <p class="coaches-p">
+      <strong>Coach</strong>
+      </br>
+      </br>
 
-#### Hamish Wheeler
-Substitute Coach 
-Brown Belt
+      Brown Belt
+      </br>
+      Primarily coaches Beginners, Peewees, Juniors 
+      </br>
+      President of Nelson Judo Club
+    </p>
+  </div>
+</div>
+
+<div class="coaches-div-outer">
+  <h2>Richard Phipps</h2>
+  <div class="coaches-div">
+    <img src="/images/about-us2.jpg" alt="Description" class="coaches-img">
+    <p class="coaches-p">
+      <strong>Coach</strong>
+      </br>
+      </br>
+
+      Brown Belt
+      </br>
+      Primarily coaches Beginners
+    </p>
+  </div>
+</div>
+
+<div class="coaches-div-outer">
+  <h2>Hamish Wheeler</h2>
+  <div class="coaches-div">
+    <img src="/images/about-us2.jpg" alt="Description" class="coaches-img">
+    <p class="coaches-p">
+      <strong>Substitute Coach</strong>
+      </br>
+      </br>
+
+      Black Belt
+    </p>
+  </div>
+</div>
+{{< /rawhtml >}}
+
 
