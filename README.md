@@ -24,6 +24,7 @@ Run the following:
 ```
 docker run --rm -ti -v $PWD:/tmp/code --net=host hugomods/hugo:debian-nightly-non-root bash
 cd /tmp/code/src/
+rm public/css/*
 hugo --gc --minify --themesDir=../
 cp assets/images/* public/images/
 cp ../hugo-scroll/assets/js/* public/js/
