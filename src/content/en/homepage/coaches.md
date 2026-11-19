@@ -54,7 +54,7 @@ Oceanic Judo Union Commission Member, Judo New Zealand Veteran Commissioner, Are
       </br>
       </br>
 
-      3rd Dan Black Belt
+      4th Dan Black Belt
       </br>
       </br>
       Primarily coaches juniors, seniors, and Jurassic classes
@@ -86,7 +86,7 @@ Oceanic Judo Union Commission Member, Judo New Zealand Veteran Commissioner, Are
 </div>
 
 <div class="coaches-div-outer">
-  <h2>Richard Stevens</h2>
+  <h2>Yui Sakamoto</h2>
   <div class="coaches-div">
     <img src="/images/about-us2.jpg" alt="Description" class="coaches-img">
     <p class="coaches-p">
@@ -94,17 +94,16 @@ Oceanic Judo Union Commission Member, Judo New Zealand Veteran Commissioner, Are
       </br>
       </br>
 
-      Brown Belt
+      2nd Dan Black Belt
       </br>
-      Primarily coaches Beginners, Peewees, Juniors 
       </br>
-      President of Nelson Judo Club
+      Primarily coaches juniors, seniors, Women's, and Jurassic classes
     </p>
   </div>
 </div>
 
 <div class="coaches-div-outer">
-  <h2>Richard Phipps</h2>
+  <h2>Richard Stevenson</h2>
   <div class="coaches-div">
     <img src="/images/about-us2.jpg" alt="Description" class="coaches-img">
     <p class="coaches-p">
@@ -114,7 +113,11 @@ Oceanic Judo Union Commission Member, Judo New Zealand Veteran Commissioner, Are
 
       Brown Belt
       </br>
-      Primarily coaches Beginners
+      </br>
+      Primarily coaches Beginners, Peewees, and Juniors clases 
+      </br>
+      </br>
+      President of Nelson Judo Club
     </p>
   </div>
 </div>
@@ -128,7 +131,7 @@ Oceanic Judo Union Commission Member, Judo New Zealand Veteran Commissioner, Are
       </br>
       </br>
 
-      Black Belt
+      1st Dan Black Belt
     </p>
   </div>
 </div>
